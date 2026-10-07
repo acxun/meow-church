@@ -1,7 +1,7 @@
 # meow-church
 
 用 [Glavo/MeowLang](https://github.com/Glavo/MeowLang)（一个用 Word 文档写代码的「次世代」深奥语言）写的示例集合：
-从 Hello World，到用**邱奇编码（Church encoding）**在纯 Meow 里计算质数、并以十进制打印。
+从 Hello World，到用**邱奇编码（Church encoding）** 在纯 Meow 里计算质数、并以十进制打印。
 
 > `meow-church` = Meow + Church（阿隆佐·邱奇，λ 演算与邱奇编码的发明人）。
 
