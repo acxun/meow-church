@@ -1,0 +1,9 @@
+# 解释器构建产物（22MB，用 build.sh 重新生成即可）
+meow.jar
+
+# Python
+__pycache__/
+*.pyc
+
+# LibreOffice 锁文件
+.~lock.*#
